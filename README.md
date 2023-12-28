@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tommaso Galimberti</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A sleeper full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjF2ZDUzODZlcGhpNG85ajEyaWVjM2hscnhoNG5mNGh4ZWh0Mm9tOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
