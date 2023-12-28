@@ -5,9 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galitom&label=Profile%20views&color=0e75b6&style=flat" alt="galitom" /> </p>
 
-- 🔭 I’m currently working on [Bene Assicurazioni](https://www.bene.it/)
+- 🔭 I'mm currently working on [Bene Assicurazioni](https://www.bene.it/)
 
-- 🌱 I’m currently learning **React Native, Spring Boot & PhP Laravel**
+- 🌱 I'm focusing my studies on becoming a software engineer.
+
+- 👯 I'm interested in collaborating with anyone who is passionate about technology and in talking to other programmers.
+
+- 💬 I dream of working for a large company where I can enhance my skills every day.
 
 - 📫 How to reach me **tgalimberti03@gmail.com**
 
