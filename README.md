@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on [Bene Assicurazioni](https://www.bene.it/)
 
-- 🌱 I'm focusing my studies on becoming a software engineer.
+- 🌱 I'm focusing my studies to become a software engineer.
 
 - 👯 I'm interested in collaborating with anyone who is passionate about technology and in talking to other programmers.
 
