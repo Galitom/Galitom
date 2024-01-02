@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galitom&label=Profile%20views&color=0e75b6&style=flat" alt="galitom" /> </p>
 
-- 🔭 I'm currently working on [Bene Assicurazioni](https://www.bene.it/)
+- 🔭 I'm currently working on [Bene Assicurazioni](https://www.bene.it/) & studying at [ITS A.R.](https://www.itsrizzoli.it/)
 
 - 🌱 I'm focusing my studies to become a software engineer.
 
